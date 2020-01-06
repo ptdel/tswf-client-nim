@@ -45,7 +45,6 @@ proc parseArgs() =
         --skip=username -> vote to skip as username
         """
 
-
     of cmdEnd:
       discard
 
